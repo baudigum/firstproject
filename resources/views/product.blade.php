@@ -817,7 +817,7 @@
                     </div>
                 </div>
             </div>
-            <div class="paging">
+            <div class="paging">  
                 <nav aria-label="Page navigation example">
                     <ul class="pagination">
                     <li class="page-item"><a class="page-link" href="#"><img src="images/arrow2cat.png" alt="" class="prev_arrow"></a></li>
