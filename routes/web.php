@@ -16,3 +16,4 @@ Route::get('/', 'HomeController@index')->name('index');
 Route::get('/product', 'ProductController@index')->name('product');
 Route::get('/categories', 'CategoriesController@index')->name('categories');
 Route::get('/categories/{id}', 'CategoriesController@view')->name('view');
+Route::get('/price', 'CategoriesController@price')->name('price');

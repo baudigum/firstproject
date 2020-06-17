@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 use App\categories;
 use Illuminate\Http\Request;
-
+use Illuminate\Support\Facades\DB;
 class CategoriesController extends Controller
 {
       public function index()
@@ -22,15 +22,11 @@ class CategoriesController extends Controller
       }
 
 
+      public function price()
 
+      {
 
-
-
-
-
-
-
-
-
-
+        $data = categories::select('price')->where('id','<','7')->get();
+        dd($data);
+      }
 }

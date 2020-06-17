@@ -9,6 +9,6 @@ class categories extends Model
   protected $primaryKey = 'id';
 
   protected $fillable = [
-   'first_name', 'last_name', 'age' , 'city' , 'country'
+   'first_name', 'last_name', 'age' , 'city' , 'country' , 'price'
   ];
 }
