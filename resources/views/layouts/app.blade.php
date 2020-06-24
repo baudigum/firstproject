@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
     <meta property=”og:title” content=”@yield('ogtitle')” />
     <meta property=”og:type” content=”article” />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
     @yield('header')
     <title>@yield('title')</title>
 </head>
@@ -31,13 +31,13 @@
             <li><a>რატომ კლასიკა</a></li>
             <li><a>კონტაქტი</a></li>
         </ul>
-        <button class="mobile_menu_close"><img src="images/close.svg" alt="close"></button>
+        <button class="mobile_menu_close"><img src="assets/assets/images/close.svg" alt="close"></button>
     </div>
     <div class="website_header">
         <div class="top_head-border">
             <div class="top_head">
                 <div class="head_contact">
-                    <a href="#"><img src="images/call-center.png" alt="call"></a>
+                    <a href="#"><img src="assets/images/call-center.png" alt="call"></a>
                     <a href="#">+995) 591 40 80 92</a>
                     <a href="#">/</a>
                     <a href="#">(+995) 557 77 57 18</a>
@@ -50,13 +50,13 @@
                     </div>
                     <div class="lenguage">
                         <div class="customSelect">
-                            <div class="geo1"><img src="images/geo-flag.svg" alt="geo"><span>ქარ</span></div>
-                            <div class="usa1"><img src="images/usa-flag.svg" alt="usa"><span>Eng</span></div>
+                            <div class="geo1"><img src="assets/images/geo-flag.svg" alt="geo"><span>ქარ</span></div>
+                            <div class="usa1"><img src="assets/images/usa-flag.svg" alt="usa"><span>Eng</span></div>
                         </div>
                         <div class="dropSelect">
                             <ul>
-                                <li class="geo"><a href="#"><img src="images/geo-flag.svg" alt="geo"><span>ქარ</span></a></li>
-                                <li class="usa"><a href="#"><img src="images/usa-flag.svg" alt="usa"><span>Eng</span></a></li>
+                                <li class="geo"><a href="#"><img src="assets/images/geo-flag.svg" alt="geo"><span>ქარ</span></a></li>
+                                <li class="usa"><a href="#"><img src="assets/images/usa-flag.svg" alt="usa"><span>Eng</span></a></li>
                             </ul>
                         </div>
                     </div>
@@ -65,7 +65,7 @@
         </div>
         <header class="main_header">
             <div class="menu_fixed">
-                <div class="logo"><a href="#"><img src="images/logo.png" alt="logo"></a></div>
+                <div class="logo"><a href="#"><img src="assets/images/logo.png" alt="logo"></a></div>
                 <div class="mainMenu">
                     <ul class="main_header_menu">
                         <li><a href="{{ route('index') }}" class="{{ Route::current()->getName() == 'index' ? 'active' : '' }}">მთავარი</a></li>
@@ -173,12 +173,12 @@
                     </ul>
                 </div>
                 <div class="menu_right_side">
-                    <a href="#"><img src="images/search.png" alt="search" id="search"></a>
-                    <a href="#"><img src="images/user.png" alt="user"></a>
-                    <a href="#"><img src="images/Forma-1.png" alt="form"></a>
+                    <a href="#"><img src="assets/images/search.png" alt="search" id="search"></a>
+                    <a href="#"><img src="assets/images/user.png" alt="user"></a>
+                    <a href="#"><img src="assets/images/Forma-1.png" alt="form"></a>
                     <div class="total">
                         <span>(0)</span>
-                        <span>0.00₾</span>
+                        <span>0.111</span>
                     </div>
                     <span class="mobile_menuIcon">
                         <i class="fa fa-navicon"></i>
@@ -190,8 +190,8 @@
     <div class="search">
         <form class="search_form">
             <input type="text" placeholder="ძიება">
-            <button><img src="images/search.png" alt="search"></button>
-            <button id="close"><img src="images/close.svg" alt="close"></button>
+            <button><img src="assets/images/search.png" alt="search"></button>
+            <button id="close"><img src="assets/images/close.svg" alt="close"></button>
         </form>
     </div>
     @yield('content')
@@ -236,7 +236,7 @@
                             <ul class="connect">
                                 <li><a href="#">(+995) 557 77 57 18</a></li>
                                 <li><a href="#">(+995) 591 40 80 92</a></li>
-                                <li class="order"><a href="#"><img src="images/mail.png"><span>order@cl.ge</span></a></li>
+                                <li class="order"><a href="#"><img src="assets/images/mail.png"><span>order@cl.ge</span></a></li>
                             </ul>
                         </div>
                     </div>
@@ -273,12 +273,12 @@
             <p>All Rights Reserved. Created By <a href="#">CGROUP.GE</a></p>
         </div>
     </footer>
-    <script src="js/jquery.min.js"></script>
-    <script src="js/jquery-3.4.1.slim.min.js"></script>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery-3.4.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/script.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/script.js"></script>
     @yield('footer')
 </body>
 </html>

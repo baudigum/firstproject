@@ -16,7 +16,7 @@
                             </div>
                         </div>
                         <div class="next_arrow">
-                            <img src="images/Shape-81.png" alt="next" class="Next">
+                            <img src="assets/images/Shape-81.png" alt="next" class="Next">
                         </div>
                     </div>
                 </div>
@@ -25,7 +25,7 @@
         </div>
         <div id="owl-one" class="owl-carousel owl-theme">
             <div class="item">
-                <img src="images/main-img2.jpg" alt="slider">
+                <img src="assets/images/main-img2.jpg" alt="slider">
                 <div class="leftBox">
                     <span class="one">აქცია</span>
                     <h2 class="title">ნუბუკის დივანი1</h2>
@@ -33,7 +33,7 @@
                 </div>
             </div>
             <div class="item">
-                <img src="images/Layer 2.jpg" alt="slider">
+                <img src="assets/images/Layer 2.jpg" alt="slider">
                 <div class="leftBox">
                     <span class="one">აქცია</span>
                     <h2 class="title">ნუბუკის დივანი2</h2>
@@ -41,7 +41,7 @@
                 </div>
             </div>
             <div class="item">
-                <img src="images/11325.jpg" alt="slider">
+                <img src="assets/images/11325.jpg" alt="slider">
                 <div class="leftBox">
                     <span class="one">აქცია</span>
                     <h2 class="title">ნუბუკის დივანი3</h2>
@@ -56,8 +56,8 @@
         <a href="#">
             <div class="furniture_box">
                 <div class="furniture_img">
-                    <img src="images/sofa-copy.png" alt="" class="furniture_img1">
-                    <img src="images/sofa-copy1.png" alt=""  class="furniture_img2">
+                    <img src="assets/images/sofa-copy.png" alt="" class="furniture_img1">
+                    <img src="assets/images/sofa-copy1.png" alt=""  class="furniture_img2">
                 </div>
                 <div class="furniture_text">
                     <h5>ავეჯი</h5>
@@ -68,8 +68,8 @@
         <a href="#">
             <div class="furniture_box">
                 <div class="furniture_img">
-                    <img src="images/saagarake-2-copy1.png" alt="" class="furniture_img1">
-                    <img src="images/saagarake-2-copy.png" alt="" class="furniture_img2">
+                    <img src="assets/images/saagarake-2-copy1.png" alt="" class="furniture_img1">
+                    <img src="assets/images/saagarake-2-copy.png" alt="" class="furniture_img2">
                 </div>
                 <div class="furniture_text">
                     <h5>ავეჯი</h5>
@@ -80,8 +80,8 @@
         <a href="#">
             <div class="furniture_box">
                 <div class="furniture_img">
-                    <img src="images/balishebi-copy.png" alt="" class="furniture_img1">
-                    <img src="images/balishebi-copy1.png" alt="" class="furniture_img2">
+                    <img src="assets/images/balishebi-copy.png" alt="" class="furniture_img1">
+                    <img src="assets/images/balishebi-copy1.png" alt="" class="furniture_img2">
                 </div>
                 <div class="furniture_text">
                     <h5>ავეჯი</h5>
@@ -92,8 +92,8 @@
         <a href="#">
             <div class="furniture_box">
                 <div class="furniture_img">
-                    <img src="images/tetreuli-2-copy.png" alt="" class="furniture_img1">
-                    <img src="images/tetreuli-2-copy1.png" alt="" class="furniture_img2">
+                    <img src="assets/images/tetreuli-2-copy.png" alt="" class="furniture_img1">
+                    <img src="assets/images/tetreuli-2-copy1.png" alt="" class="furniture_img2">
                 </div>
                 <div class="furniture_text">
                     <h5>ავეჯი</h5>
@@ -104,8 +104,8 @@
         <a href="#">
             <div class="furniture_box">
                 <div class="furniture_img">
-                    <img src="images/dekoracia-copy1.png" alt="" class="furniture_img1">
-                    <img src="images/dekoracia-copy11.png" alt="" class="furniture_img2">
+                    <img src="assets/images/dekoracia-copy1.png" alt="" class="furniture_img1">
+                    <img src="assets/images/dekoracia-copy11.png" alt="" class="furniture_img2">
                 </div>
                 <div class="furniture_text">
                     <h5>ავეჯი</h5>
@@ -116,8 +116,8 @@
         <a href="#">
             <div class="furniture_box">
                 <div class="furniture_img">
-                    <img src="images/churcheli-copy.png" alt="" class="furniture_img1">
-                    <img src="images/churcheli-copy1.png" alt="" class="furniture_img2">
+                    <img src="assets/images/churcheli-copy.png" alt="" class="furniture_img1">
+                    <img src="assets/images/churcheli-copy1.png" alt="" class="furniture_img2">
                 </div>
                 <div class="furniture_text">
                     <h5>ავეჯი</h5>
@@ -128,8 +128,8 @@
         <a href="#">
             <div class="furniture_box">
                 <div class="furniture_img">
-                    <img src="images/textile-fill.png" alt="" class="furniture_img1">
-                    <img src="images/textile-fill1.png" alt="" class="furniture_img2">
+                    <img src="assets/images/textile-fill.png" alt="" class="furniture_img1">
+                    <img src="assets/images/textile-fill1.png" alt="" class="furniture_img2">
                 </div>
                 <div class="furniture_text">
                     <h5>ავეჯი</h5>
@@ -140,8 +140,8 @@
         <a href="#">
             <div class="furniture_box">
                 <div class="furniture_img">
-                    <img src="images/dana-changali.png" alt="" class="furniture_img1">
-                    <img src="images/dana-changali1.png" alt="" class="furniture_img2">
+                    <img src="assets/images/dana-changali.png" alt="" class="furniture_img1">
+                    <img src="assets/images/dana-changali1.png" alt="" class="furniture_img2">
                 </div>
                 <div class="furniture_text">
                     <h5>ავეჯი</h5>
@@ -152,8 +152,8 @@
         <a href="#">
             <div class="furniture_box">
                 <div class="furniture_img">
-                    <img src="images/matrasi-2-copy.png" alt="" class="furniture_img1">
-                    <img src="images/matrasi-2-copy1.png" alt="" class="furniture_img2">
+                    <img src="assets/images/matrasi-2-copy.png" alt="" class="furniture_img1">
+                    <img src="assets/images/matrasi-2-copy1.png" alt="" class="furniture_img2">
                 </div>
                 <div class="furniture_text">
                     <h5>ავეჯი</h5>
@@ -171,14 +171,14 @@
 </div>
 <div class="furniture_modal">
     <div class="lookFor">
-        <button class="furniture_search"><img src="images/search.png" alt="search"></button>
+        <button class="furniture_search"><img src="assets/images/search.png" alt="search"></button>
         <input type="text" placeholder="ძებნა" class="look_input">
-        <button class="closeModal"><img src="images/close.svg" alt="closeModal"></button>
+        <button class="closeModal"><img src="assets/images/close.svg" alt="closeModal"></button>
     </div>
     <div class="furniture_modal_box">
         <a href="#">
             <div class="modalBox">
-                <img src="images/sofa-copy.png" alt="" class="modal_img">
+                <img src="assets/images/sofa-copy.png" alt="" class="modal_img">
                 <div class="modal_text">
                     <h5>ავეჯი</h5>
                     <span>200 პროდუქტი</span>
@@ -187,7 +187,7 @@
         </a>
         <a href="#">
             <div class="modalBox">
-                <img src="images/saagarake-2-copy1.png" alt="" class="modal_img">
+                <img src="assets/images/saagarake-2-copy1.png" alt="" class="modal_img">
                 <div class="modal_text">
                     <h5>ავეჯი</h5>
                     <span>200 პროდუქტი</span>
@@ -196,7 +196,7 @@
         </a>
         <a href="#">
             <div class="modalBox">
-                <img src="images/balishebi-copy.png" alt="" class="modal_img">
+                <img src="assets/images/balishebi-copy.png" alt="" class="modal_img">
                 <div class="modal_text">
                     <h5>ავეჯი</h5>
                     <span>200 პროდუქტი</span>
@@ -205,7 +205,7 @@
         </a>
         <a href="#">
             <div class="modalBox">
-                <img src="images/tetreuli-2-copy.png" alt="" class="modal_img">
+                <img src="assets/images/tetreuli-2-copy.png" alt="" class="modal_img">
                 <div class="modal_text">
                     <h5>ავეჯი</h5>
                     <span>200 პროდუქტი</span>
@@ -214,7 +214,7 @@
         </a>
         <a href="#">
             <div class="modalBox">
-                <img src="images/dekoracia-copy1.png" alt="" class="modal_img">
+                <img src="assets/images/dekoracia-copy1.png" alt="" class="modal_img">
                 <div class="modal_text">
                     <h5>ავეჯი</h5>
                     <span>200 პროდუქტი</span>
@@ -223,7 +223,7 @@
         </a>
         <a href="#">
             <div class="modalBox">
-                <img src="images/churcheli-copy.png" alt="" class="modal_img">
+                <img src="assets/images/churcheli-copy.png" alt="" class="modal_img">
                 <div class="modal_text">
                     <h5>ავეჯი</h5>
                     <span>200 პროდუქტი</span>
@@ -232,7 +232,7 @@
         </a>
         <a href="#">
             <div class="modalBox">
-                <img src="images/textile-fill.png" alt="" class="modal_img">
+                <img src="assets/images/textile-fill.png" alt="" class="modal_img">
                 <div class="modal_text">
                     <h5>ავეჯი</h5>
                     <span>200 პროდუქტი</span>
@@ -241,7 +241,7 @@
         </a>
         <a href="#">
             <div class="modalBox">
-                <img src="images/dana-changali.png" alt="" class="modal_img">
+                <img src="assets/images/dana-changali.png" alt="" class="modal_img">
                 <div class="modal_text">
                     <h5>ავეჯი</h5>
                     <span>200 პროდუქტი</span>
@@ -250,7 +250,7 @@
         </a>
         <a href="#">
             <div class="modalBox">
-                <img src="images/matrasi-2-copy.png" alt="" class="modal_img">
+                <img src="assets/images/matrasi-2-copy.png" alt="" class="modal_img">
                 <div class="modal_text">
                     <h5>ავეჯი</h5>
                     <span>200 პროდუქტი</span>
@@ -271,8 +271,8 @@
             <h4>კატეგორიები</h4>
             <div class="bord"></div>
             <div class="arrows">
-                <img src="images/arrow1.png" alt="" class="prev">
-                <img src="images/arrow.png" alt="" class="next">
+                <img src="assets/images/arrow1.png" alt="" class="prev">
+                <img src="assets/images/arrow.png" alt="" class="next">
             </div>
         </div>
         <div class="row">
@@ -301,7 +301,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 51.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 51.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -323,11 +323,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button c>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button c>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -340,7 +340,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 41.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 41.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -362,11 +362,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -379,7 +379,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 61.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 61.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -401,11 +401,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -420,7 +420,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 61.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 61.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -442,11 +442,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -458,7 +458,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 41.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 41.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -480,11 +480,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -496,7 +496,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 61.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 61.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -518,11 +518,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -537,7 +537,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 41.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 41.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -559,11 +559,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -575,7 +575,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 41.jpg" alt="df" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 41.jpg" alt="df" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -597,11 +597,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -613,7 +613,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 41.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 41.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -635,11 +635,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -654,7 +654,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 51.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 51.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -676,11 +676,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count" >1</span class="minus">
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -692,7 +692,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 41.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 41.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -714,11 +714,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -730,7 +730,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 61.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 61.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -752,11 +752,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -771,7 +771,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 51.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 51.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -793,11 +793,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -809,7 +809,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 41.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 41.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -831,11 +831,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -847,7 +847,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 61.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 61.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -869,11 +869,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -888,7 +888,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 51.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 51.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -910,11 +910,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -926,7 +926,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 41.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 41.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -948,11 +948,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -964,7 +964,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 61.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 61.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -986,11 +986,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -1005,7 +1005,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 51.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 51.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -1027,11 +1027,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -1043,7 +1043,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 41.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 41.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -1065,11 +1065,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -1081,7 +1081,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 61.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 61.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -1103,11 +1103,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="coount">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -1122,7 +1122,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 51.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 51.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -1144,11 +1144,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -1160,7 +1160,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 41.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 41.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -1182,11 +1182,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -1198,7 +1198,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 61.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 61.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -1220,11 +1220,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -1239,7 +1239,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 51.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 51.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -1261,11 +1261,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -1277,7 +1277,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 41.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 41.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -1299,11 +1299,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -1315,7 +1315,7 @@
                             <div class="item">
                                 <div class="category_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/Layer 61.jpg" alt="" class="im"></a>
+                                        <a href="#"><img src="assets/images/Layer 61.jpg" alt="" class="im"></a>
                                     </div>
                                     <div class="category_item_text">
                                         <div class="category_text">
@@ -1337,11 +1337,11 @@
                                                 <div class="bottom_right">
                                                     <div class="shop">
                                                         <div class="number">
-                                                            <button class="minus"><img src="images/arrow11.png" alt=""></button>
+                                                            <button class="minus"><img src="assets/images/arrow11.png" alt=""></button>
                                                             <span class="count">1</span>
-                                                            <button class="add"><img src="images/arrow22.png" alt=""></button>
+                                                            <button class="add"><img src="assets/images/arrow22.png" alt=""></button>
                                                         </div>
-                                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                                     </div>
                                                     <button class="discount">აქცია</button>
                                                 </div>
@@ -1365,10 +1365,10 @@
                     <a href="#">
                         <div class="left_collection">
                             <div class="collection_background">
-                                <img src="images/45671.png" alt="collection" class="back">
+                                <img src="assets/images/45671.png" alt="collection" class="back">
                                 <div class="colletction_text">
                                     <h3>ახალი კოლექცია</h3>
-                                    <a href="#" class="full"><span>ვრცლად</span><img src="images/arrow2cat.png" alt="arrow2"></a>
+                                    <a href="#" class="full"><span>ვრცლად</span><img src="assets/images/arrow2cat.png" alt="arrow2"></a>
                                 </div>
                                 <div class="poligon"></div>
                             </div>
@@ -1379,10 +1379,10 @@
                     <a href="#">
                         <div class="right_collection">
                             <div class="collection_background_right">
-                                <img src="images/table70012.png" alt="collection" class="back">
+                                <img src="assets/images/table70012.png" alt="collection" class="back">
                                 <div class="colletction_text">
                                     <h3>ახალი კოლექცია</h3>
-                                    <a href="#" class="full"><span>ვრცლად</span><img src="images/arrow2cat.png" alt="arrow2"></a>
+                                    <a href="#" class="full"><span>ვრცლად</span><img src="assets/images/arrow2cat.png" alt="arrow2"></a>
                                 </div>
                                 <div class="poligon1"></div>
                             </div>
@@ -1395,7 +1395,7 @@
             <div id="owl-three" class="owl-carousel owl-theme">
                     <div class="item">
                         <div class="collection_item">
-                            <a href="#"><div class="image"><img src="images/Layer-17.png" alt="www" ></div></a>
+                            <a href="#"><div class="image"><img src="assets/images/Layer-17.png" alt="www" ></div></a>
                             <div class="collection_item_text">
                                 <div class="collection_left_text">
                                     <h5>საძინებლის გარნიტური</h5>
@@ -1405,11 +1405,11 @@
                                 <div class="collection_right_text">
                                     <button class="discount">აქცია</button>
                                     <div class="collection_shop">
-                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                         <div class="collection_number">
-                                            <button class="Minus"><img src="images/arrow11.png" alt=""></button>
+                                            <button class="Minus"><img src="assets/images/arrow11.png" alt=""></button>
                                             <span class="theCount">1</span>
-                                            <button class="Add"><img src="images/arrow22.png" alt=""></button>
+                                            <button class="Add"><img src="assets/images/arrow22.png" alt=""></button>
                                         </div>
                                     </div>
                                 </div>
@@ -1418,7 +1418,7 @@
                     </div>
                     <div class="item">
                         <div class="collection_item">
-                            <a href="#"><div class="image"><img src="images/Layer-18.png" alt=""></div></a>
+                            <a href="#"><div class="image"><img src="assets/images/Layer-18.png" alt=""></div></a>
                             <div class="collection_item_text">
                                 <div class="collection_left_text">
                                     <h5>საძინებლის გარნიტური</h5>
@@ -1428,11 +1428,11 @@
                                 <div class="collection_right_text">
                                     <button class="discount yellow">აქცია</button>
                                     <div class="collection_shop">
-                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                         <div class="collection_number">
-                                            <button class="Minus"><img src="images/arrow11.png" alt=""></button>
+                                            <button class="Minus"><img src="assets/images/arrow11.png" alt=""></button>
                                             <span class="theCount">1</span>
-                                            <button class="Add"><img src="images/arrow22.png" alt=""></button>
+                                            <button class="Add"><img src="assets/images/arrow22.png" alt=""></button>
                                         </div>
                                     </div>
                                 </div>
@@ -1441,7 +1441,7 @@
                     </div>
                     <div class="item">
                         <div class="collection_item">
-                            <a href="#"><div class="image"><img src="images/Layer-19.png" alt=""></div></a>
+                            <a href="#"><div class="image"><img src="assets/images/Layer-19.png" alt=""></div></a>
                             <div class="collection_item_text">
                                 <div class="collection_left_text">
                                     <h5>საძინებლის გარნიტური</h5>
@@ -1451,11 +1451,11 @@
                                 <div class="collection_right_text">
                                     <button class="discount">აქცია</button>
                                     <div class="collection_shop">
-                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                         <div class="collection_number">
-                                            <button class="Minus"><img src="images/arrow11.png" alt=""></button>
+                                            <button class="Minus"><img src="assets/images/arrow11.png" alt=""></button>
                                             <span class="theCount">1</span>
-                                            <button class="Add"><img src="images/arrow22.png" alt=""></button>
+                                            <button class="Add"><img src="assets/images/arrow22.png" alt=""></button>
                                         </div>
                                     </div>
                                 </div>
@@ -1464,7 +1464,7 @@
                     </div>
                     <div class="item">
                         <div class="collection_item">
-                            <a href="#"><div class="image"><img src="images/Layer-20.png" alt=""></div></a>
+                            <a href="#"><div class="image"><img src="assets/images/Layer-20.png" alt=""></div></a>
                             <div class="collection_item_text">
                                 <div class="collection_left_text">
                                     <h5>საძინებლის გარნიტური</h5>
@@ -1474,11 +1474,11 @@
                                 <div class="collection_right_text">
                                     <button class="discount yellow">აქცია</button>
                                     <div class="collection_shop">
-                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                         <div class="collection_number">
-                                            <button class="Minus"><img src="images/arrow11.png" alt=""></button>
+                                            <button class="Minus"><img src="assets/images/arrow11.png" alt=""></button>
                                             <span class="theCount">1</span>
-                                            <button class="Add"><img src="images/arrow22.png" alt=""></button>
+                                            <button class="Add"><img src="assets/images/arrow22.png" alt=""></button>
                                         </div>
                                     </div>
                                 </div>
@@ -1487,7 +1487,7 @@
                     </div>
                     <div class="item">
                         <div class="collection_item">
-                            <a href="#"><div class="image"><img src="images/Layer-21.png" alt=""></div></a>
+                            <a href="#"><div class="image"><img src="assets/images/Layer-21.png" alt=""></div></a>
                             <div class="collection_item_text">
                                 <div class="collection_left_text">
                                     <h5>საძინებლის გარნიტური</h5>
@@ -1497,11 +1497,11 @@
                                 <div class="collection_right_text">
                                     <button class="discount">აქცია</button>
                                     <div class="collection_shop">
-                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                         <div class="collection_number">
-                                            <button class="Minus"><img src="images/arrow11.png" alt=""></button>
+                                            <button class="Minus"><img src="assets/images/arrow11.png" alt=""></button>
                                             <span class="theCount">1</span>
-                                            <button class="Add"><img src="images/arrow22.png" alt=""></button>
+                                            <button class="Add"><img src="assets/images/arrow22.png" alt=""></button>
                                         </div>
                                     </div>
                                 </div>
@@ -1510,7 +1510,7 @@
                     </div>
                     <div class="item">
                         <div class="collection_item">
-                            <a href="#"><div class="image"><img src="images/Layer-22.png" alt=""></div></a>
+                            <a href="#"><div class="image"><img src="assets/images/Layer-22.png" alt=""></div></a>
                             <div class="collection_item_text">
                                 <div class="collection_left_text">
                                     <h5>საძინებლის გარნიტური</h5>
@@ -1520,11 +1520,11 @@
                                 <div class="collection_right_text">
                                     <button class="discount yellow">აქცია</button>
                                     <div class="collection_shop">
-                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                         <div class="collection_number">
-                                            <button class="Minus"><img src="images/arrow11.png" alt=""></button>
+                                            <button class="Minus"><img src="assets/images/arrow11.png" alt=""></button>
                                             <span class="theCount">1</span>
-                                            <button class="Add"><img src="images/arrow22.png" alt=""></button>
+                                            <button class="Add"><img src="assets/images/arrow22.png" alt=""></button>
                                         </div>
                                     </div>
                                 </div>
@@ -1533,7 +1533,7 @@
                     </div>
                     <div class="item">
                         <div class="collection_item">
-                            <a href="#"><div class="image"><img src="images/Layer 61.jpg" alt=""></div></a>
+                            <a href="#"><div class="image"><img src="assets/images/Layer 61.jpg" alt=""></div></a>
                             <div class="collection_item_text">
                                 <div class="collection_left_text">
                                     <h5>საძინებლის გარნიტური</h5>
@@ -1543,11 +1543,11 @@
                                 <div class="collection_right_text">
                                     <button class="discount">აქცია</button>
                                     <div class="collection_shop">
-                                        <button class="kalata"><img src="images/kalata.png" alt="kalata"></button>
+                                        <button class="kalata"><img src="assets/images/kalata.png" alt="kalata"></button>
                                         <div class="collection_number">
-                                            <button class="Minus"><img src="images/arrow11.png" alt=""></button>
+                                            <button class="Minus"><img src="assets/images/arrow11.png" alt=""></button>
                                             <span class="theCount">1</span>
-                                            <button class="Add"><img src="images/arrow22.png" alt=""></button>
+                                            <button class="Add"><img src="assets/images/arrow22.png" alt=""></button>
                                         </div>
                                     </div>
                                 </div>
@@ -1557,10 +1557,10 @@
             </div>
             <div class="arrow_circle">
                 <div class="left_circle">
-                    <img src="images/arrow1.png" alt="left">
+                    <img src="assets/images/arrow1.png" alt="left">
                 </div>
                 <div class="right_circle">
-                    <img src="images/arrow.png" alt="right">
+                    <img src="assets/images/arrow.png" alt="right">
                 </div>
             </div>
         </div>
@@ -1577,19 +1577,19 @@
                         </div>
                         <div class="line"></div>
                         <div class="arrows">
-                            <img src="images/arrow_news1.png" alt="prev" class="new_prev">
-                            <img src="images/arrow_news.png" alt="next" class="new_next">
+                            <img src="assets/images/arrow_news1.png" alt="prev" class="new_prev">
+                            <img src="assets/images/arrow_news.png" alt="next" class="new_next">
                         </div>
                     </div>
                     <a href="#">
                         <span>სიახლეები</span>
-                        <img src="images/arrow2.png" alt="arrow2">
+                        <img src="assets/images/arrow2.png" alt="arrow2">
                     </a>
                 </div>
                 <div id="owl-four" class="owl-carousel owl-theme">
                     <div class="item">
                         <a href="#">
-                            <img src="images/Layer-15.png" alt="news">
+                            <img src="assets/images/Layer-15.png" alt="news">
                             <a href="#">
                                 <div class="date">
                                     <span>4</span>
@@ -1604,7 +1604,7 @@
                     </div>
                     <div class="item">
                         <a href="#">
-                            <img src="images/Layer-16.png" alt="news">
+                            <img src="assets/images/Layer-16.png" alt="news">
                             <a href="#">
                                 <div class="date">
                                     <span>2</span>
@@ -1630,14 +1630,14 @@
                     <h3>კატალოგები და ჟურნალები</h3>
                     <div class="catalog_line"></div>
                     <div class="catalog_arrows">
-                        <img src="images/arrow_news1.png" alt="prev" class="catalog_prev">
-                        <img src="images/arrow_news.png" alt="next" class="catalog_next">
+                        <img src="assets/images/arrow_news1.png" alt="prev" class="catalog_prev">
+                        <img src="assets/images/arrow_news.png" alt="next" class="catalog_next">
                     </div>
                 </div>
                 <div id="owl-five" class="owl-carousel owl-theme">
                     <div class="item">
                         <a href="#">
-                            <img src="images/Layer 11.jpg" alt="catalog">
+                            <img src="assets/images/Layer 11.jpg" alt="catalog">
                             <div class="catalog_hover">
                                 <h5>KONFOR <span>BY CLASSICA</span></h5>
                             </div>
@@ -1645,7 +1645,7 @@
                     </div>
                     <div class="item">
                         <a href="#">
-                            <img src="images/Layer 9.jpg" alt="catalog">
+                            <img src="assets/images/Layer 9.jpg" alt="catalog">
                             <div class="catalog_hover">
                                 <h5>KONFOR <span>BY CLASSICA</span></h5>
                             </div>
@@ -1653,7 +1653,7 @@
                     </div>
                     <div class="item">
                         <a href="#">
-                            <img src="images/Layer 8.jpg" alt="catalog">
+                            <img src="assets/images/Layer 8.jpg" alt="catalog">
                             <div class="catalog_hover">
                                 <h5>KONFOR <span>BY CLASSICA</span></h5>
                             </div>
@@ -1661,7 +1661,7 @@
                     </div>
                     <div class="item">
                         <a href="#">
-                            <img src="images/Layer 10.jpg" alt="catalog">
+                            <img src="assets/images/Layer 10.jpg" alt="catalog">
                             <div class="catalog_hover">
                                 <h5>KONFOR <span>BY CLASSICA</span></h5>
                             </div>
@@ -1679,8 +1679,8 @@
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 p-0">
                     <a href="#">
                         <div class="box">
-                            <img src="images/Shape-12.png" alt="box" class="box_img1">
-                            <img src="images/Shape-1211.png" alt="box" class="box_img2">
+                            <img src="assets/images/Shape-12.png" alt="box" class="box_img1">
+                            <img src="assets/images/Shape-1211.png" alt="box" class="box_img2">
                             <h4>ფილიალები</h4>
                         </div>
                     </a>
@@ -1688,8 +1688,8 @@
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 p-0">
                     <a href="#">
                         <div class="box">
-                            <img src="images/Forma-11.png" alt="box" class="box_img1">
-                            <img src="images/Forma-1111.png" alt="box" class="box_img2">
+                            <img src="assets/images/Forma-11.png" alt="box" class="box_img1">
+                            <img src="assets/images/Forma-1111.png" alt="box" class="box_img2">
                             <h4>როგორ შევიძინო</h4>
                         </div>
                     </a>
@@ -1697,8 +1697,8 @@
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 p-0">
                     <a href="#">
                         <div class="box">
-                            <img src="images/Shape-11.png" alt="box" class="box_img1">
-                            <img src="images/Shape-111.png" alt="box" class="box_img2">
+                            <img src="assets/images/Shape-11.png" alt="box" class="box_img1">
+                            <img src="assets/images/Shape-111.png" alt="box" class="box_img2">
                             <h4>უფასო მიწოდება</h4>
                         </div>
                     </a>
@@ -1706,8 +1706,8 @@
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 p-0">
                     <a href="#">
                         <div class="box">
-                            <img src="images/ganvadeba.png" alt="box" class="box_img1">
-                            <img src="images/lari1.png" alt="box" class="box_img2">
+                            <img src="assets/images/ganvadeba.png" alt="box" class="box_img1">
+                            <img src="assets/images/lari1.png" alt="box" class="box_img2">
                             <h4>განვადება</h4>
                         </div>
                     </a>
